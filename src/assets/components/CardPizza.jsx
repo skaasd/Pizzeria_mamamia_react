@@ -12,6 +12,7 @@ function CardPizza({ name, price, ingredients, img }) {
         <div className="d-flex justify-content-around">
           <button className="btn btn-outline-primary">Ver más 👀</button>
           <button className="btn btn-dark">Añadir 🛒</button>
+          <button className="btn btn-dark"> Añadir 🛒 </button>
         </div>
       </div>
     </div>
